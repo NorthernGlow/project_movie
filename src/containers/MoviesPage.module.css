@@ -1,0 +1,10 @@
+.MoviesPage{
+    background-image: url("https://i.pinimg.com/564x/a6/1f/c3/a61fc3b4ab72b11a59aa71c1f0f364e7.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

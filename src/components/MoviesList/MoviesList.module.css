@@ -1,0 +1,26 @@
+.MoviesList{
+
+}
+
+.button {
+    /*width: 200px;*/
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+
+}
+
+.btn{
+    font-size: large;
+    height: 50px;
+    width: 100px;
+
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 20px;
+}
