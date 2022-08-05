@@ -1,15 +1,26 @@
 .card {
     border: 1px solid black;
-    width: 200px;
-    height: 300px;
+    width: 400px;
+    height: 500px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    margin: 10px calc((100% - (200px * 4)) / 6);
+    margin: 10px calc((100% - (400px * 4)) / 6);
     background-color: honeydew;
 }
 
+
 .img {
-    width: 150px;
+    width: calc(100% - 50px);
 }
+
+.title {
+    text-align: center;
+}
+
+.avar{
+    font-size: 25px;
+}
+
+

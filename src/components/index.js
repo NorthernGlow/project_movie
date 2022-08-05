@@ -4,3 +4,9 @@ export * from './SearchMovie/SearchMovie';
 export * from './Menu/Menu';
 export * from './MoviesListCard/MoviesListCard';
 export * from './MoviesList/MoviesList';
+export * from './Movies/Movies'
+export * from './Movie/Movie'
+export * from './PosterPreview/PosterPreview'
+export * from './MovieInfo/MovieInfo'
+export * from './Genre/Genre'
+export * from './Genres/Genres'

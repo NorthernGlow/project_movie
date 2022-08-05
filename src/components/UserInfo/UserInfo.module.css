@@ -1,6 +1,11 @@
 .img{
-    height: 25px;
+    height: 30px;
     margin-right: 25px;
+}
+
+.name{
+    font-size: 25px;
+    margin-right: 10px;
 }
 
 .UserInfo{

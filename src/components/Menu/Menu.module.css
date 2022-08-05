@@ -1,9 +1,9 @@
 .Menu{
     width: 100px;
     margin-left: 25px;
+    color: rgba(5, 5, 5, 0.34);
+    font-size: 20px;
 }
-
-.btn{
-    width: 30px;
-    height: 30px;
+.allMenu{
+    display: flex;
 }
